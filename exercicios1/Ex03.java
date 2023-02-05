@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios1;
 
 import java.util.Scanner;
 
@@ -19,5 +19,5 @@ public class Ex03 {
         diferenca = (a * b) - (c * d);
         System.out.printf("DIFERENÇA: %d", diferenca);
     }
-    
+
 }
